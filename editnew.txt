@@ -1,4 +1,4 @@
-This file is included in testing branch
-File is in production
+File properties
+Testing properties
 included
 What are the issues in this file
