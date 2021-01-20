@@ -1,5 +1,4 @@
-sreekanth
-maokshith
-vamsi
+What are the properties of GIT?
+Features of GIT
 
-What are the issues in this file
+
